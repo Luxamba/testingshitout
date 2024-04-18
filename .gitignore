@@ -1,1 +1,3 @@
-.DS_Store
+logs/
+main.logs
+*.log.DS_Store
